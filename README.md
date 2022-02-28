@@ -1,2 +1,2 @@
 # RR1_16S_data
-Code related to full length 16S sequencing data from PacBio of Romaine Rally I samples which is pilot study testing aggregative swabs of romaine lettuce and romaine lettuce tissue samples from a field in Salinas, CA and uses romaine lettuce from a local grocery store as an outgroup
+This repository includes code related to data from Romaine Rally I samples. These samples were part of a pilot study comparing aggregative swabs of romaine lettuce to romaine lettuce tissue samples from a field in Salinas, CA. The study used romaine lettuce from a local grocery store as an outgroup. The sequencing was done using full length 16S rRNA sequencing on a PacBio instrument.
