@@ -1,0 +1,32 @@
+Sample File,Sample Name,Type,Sample Scheme,Total Reads,Total Bases,Inoculation,Sample Type
+SS2_bc1002--bc1056.hifi_reads.fastq.gz,SS2,Produce leaf,Systematic,"32,102","47,961,677",Uninoculated,Uninoculated Produce leaf
+MT2_bc1002--bc1057.hifi_reads.fastq.gz,MT2,Swab,MicroTally,"35,452","52,850,602",Uninoculated,Uninoculated Swab
+MT10_bc1002--bc1059.hifi_reads.fastq.gz,MT10,Swab,MicroTally,"33,791","50,357,969",Uninoculated,Uninoculated Swab
+R6_bc1002--bc1060.hifi_reads.fastq.gz,R6,Produce leaf,Stratified,"39,112","57,980,406",Uninoculated,Uninoculated Produce leaf
+SS3_bc1003--bc1056.hifi_reads.fastq.gz,SS3,Produce leaf,Systematic,"34,864","51,683,073",Inoculated,Inoculated Produce leaf
+MT3_bc1003--bc1057.hifi_reads.fastq.gz,MT3,Swab,MicroTally,"39,079","58,193,868",Inoculated,Inoculated Swab
+MT11_bc1003--bc1059.hifi_reads.fastq.gz,MT11,Swab,MicroTally,"29,197","43,449,426",Inoculated,Inoculated Swab
+UT1_bc1003--bc1060.hifi_reads.fastq.gz,UT1,Store Produce leaf,N/A,"46,667","69,874,545",Uninoculated,Uninoculated Store Produce leaf
+SS4_bc1004--bc1056.hifi_reads.fastq.gz,SS4,Produce leaf,Systematic,"24,050","36,038,236",Uninoculated,Uninoculated Produce leaf
+MT4_bc1004--bc1057.hifi_reads.fastq.gz,MT4,Swab,MicroTally,"33,130","49,388,980",Uninoculated,Uninoculated Swab
+MT12_bc1004--bc1059.hifi_reads.fastq.gz,MT12,Swab,MicroTally,"18,699","27,783,047",Uninoculated,Uninoculated Swab
+UT3_bc1004--bc1060.hifi_reads.fastq.gz,UT3,Store Produce leaf,N/A,"34,071","51,125,012",Uninoculated,Uninoculated Store Produce leaf
+SS1_bc1005--bc1056.hifi_reads.fastq.gz,SS1,Produce leaf,Systematic,"34,198","50,985,283",Inoculated,Inoculated Produce leaf
+MT1_bc1005--bc1057.hifi_reads.fastq.gz,MT1,Swab,MicroTally,"35,783","53,083,199",Inoculated,Inoculated Swab
+MT9_bc1005--bc1059.hifi_reads.fastq.gz,MT9,Swab,MicroTally,"37,392","55,679,317",Inoculated,Inoculated Swab
+R5_bc1005--bc1060.hifi_reads.fastq.gz,R5,Produce leaf,Stratified,"28,686","42,781,501",Inoculated,Inoculated Produce leaf
+SS6_bc1006--bc1056.hifi_reads.fastq.gz,SS6,Produce leaf,Systematic,"33,178","49,538,585",Uninoculated,Uninoculated Produce leaf
+MT6_bc1006--bc1057.hifi_reads.fastq.gz,MT6,Swab,MicroTally,"28,924","42,906,071",Uninoculated,Uninoculated Swab
+R2_bc1006--bc1059.hifi_reads.fastq.gz,R2,Produce leaf,Stratified,"9,179","13,764,224",Uninoculated,Uninoculated Produce leaf
+IT2_bc1006--bc1060.hifi_reads.fastq.gz,IT2,Store Produce leaf,N/A,"42,070","63,175,909",Inoculated,Inoculated Store Produce leaf
+SS5_bc1009--bc1056.hifi_reads.fastq.gz,SS5,Produce leaf,Systematic,"21,657","31,961,722",Inoculated,Inoculated Produce leaf
+MT5_bc1009--bc1057.hifi_reads.fastq.gz,MT5,Swab,MicroTally,"33,616","49,959,045",Inoculated,Inoculated Swab
+R1_bc1009--bc1059.hifi_reads.fastq.gz,R1,Produce leaf,Stratified,"18,577","27,775,002",Inoculated,Inoculated Produce leaf
+IT1_bc1009--bc1060.hifi_reads.fastq.gz,IT1,Store Produce leaf,N/A,"36,427","54,559,424",Inoculated,Inoculated Store Produce leaf
+SS7_bc1010--bc1056.hifi_reads.fastq.gz,SS7,Produce leaf,Systematic,"27,244","40,839,145",Inoculated,Inoculated Produce leaf
+MT7_bc1010--bc1057.hifi_reads.fastq.gz,MT7,Swab,MicroTally,"42,936","63,576,699",Inoculated,Inoculated Swab
+R3_bc1010--bc1059.hifi_reads.fastq.gz,R3,Produce leaf,Stratified,"19,735","30,014,881",Inoculated,Inoculated Produce leaf
+IT3_bc1010--bc1060.hifi_reads.fastq.gz,IT3,Store Produce leaf,N/A,"31,042","46,495,245",Inoculated,Inoculated Store Produce leaf
+SS8_bc1011--bc1056.hifi_reads.fastq.gz,SS8,Produce leaf,Systematic,"28,261","41,866,034",Inoculated,Inoculated Produce leaf
+MT8_bc1011--bc1057.hifi_reads.fastq.gz,MT8,Swab,MicroTally,"25,096","37,381,743",Uninoculated,Uninoculated Swab
+R4_bc1011--bc1059.hifi_reads.fastq.gz,R4,Produce leaf,Stratified,"31,611","47,125,571",Uninoculated,Uninoculated Produce leaf
